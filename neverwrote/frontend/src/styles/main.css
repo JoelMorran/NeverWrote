@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+}
+h1.blog-title ,p.blog-description {
+  color: goldenrod;
+  text-align: center;
+}
+div.container{
+  text-align: center;
+}
